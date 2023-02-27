@@ -1,2 +1,2 @@
-# site
+# paylaştıkça
 deneme projesi
